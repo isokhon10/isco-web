@@ -1,0 +1,14 @@
+.facebook-foto {
+    width: 10px;
+    margin-top: 10px;
+    object-fit: contain;
+    position: relative;
+}
+
+.video-facebook {
+    display: grid;
+}
+
+.facebook-time {
+    position: absolute;
+}
